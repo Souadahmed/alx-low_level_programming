@@ -7,7 +7,7 @@
 void jack_bauer(void)
 {
 	int i, j;
-
+        jack_baur
 	i = 0;
 
 	while (i < 24)
